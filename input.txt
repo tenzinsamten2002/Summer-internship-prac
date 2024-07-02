@@ -1,0 +1,5 @@
+simply easy learning!
+
+
+
+Q.write a code implements arrays and function using forms and submit the details to display in the tables.Using only js and html
